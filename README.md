@@ -1,6 +1,6 @@
-Hi, thanks for taking the time to read about me.\
+Hi, thanks for taking the time to read about me.
 
-I'm an aspiring epidemiologist and public health analyst. I am showcasing my career profile and my work with various analytical software.\
+I'm an aspiring epidemiologist and public health analyst. I am showcasing my career profile and my work with various analytical software.
 
 Career profile:\
 Master of Public Health with specialisation in Epidemiology and Biostatistics | 2026 QS Global ranked 19th university, 1st in Australia (UNSW)\
