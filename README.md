@@ -18,4 +18,4 @@ SAS Programmer Professional Certificate | _In progress_ | Completed all modules 
 Statistical Analysis with R for Public Health Specialization | Imperial College London | _In progress_\
 SQL For Data Science | UC Davis | _Planned_\
 European Health Data & Evidence Network Academy - Observational Health Data Sciences and Informatics: Observational Medical Outcomes Partnership Common Data Model (OHDSI OMOP CDM v6) | _Planned_\
-DP-605 Prepare and visualise data with PowerBI & PL-300 Design and Manage Analytics solutions using PowerBI | _Planned_\
+DP-605 Prepare and visualise data with PowerBI & PL-300 Design and Manage Analytics solutions using PowerBI | _Planned_
