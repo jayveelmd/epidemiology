@@ -1,6 +1,6 @@
-#Script for importing cancer data for Statistical Thinking for Public Health MOOC
-#Program created by me on Jul 3
+    #Statistical Analysis with R for Public Health Specialisation | Imperial College London
 
+#Importing data script
 g <- read.csv("C:/Users/Jayvee Llor/Desktop/ICL/cancer data for MOOC 1.csv",
               header = TRUE,
               sep = ",")
