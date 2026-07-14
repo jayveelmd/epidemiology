@@ -2,14 +2,14 @@ Hi, thanks for taking the time to read about me.
 
 **_My GitHub profile is a work in progress_**
 
-I'm an aspiring epidemiologist and public health analyst residing in Sydney, Australia. I am showcasing my career profile and my work with various analytical softwares, icluding R, SAS, SQL, Stata, REDCap and more.
+I'm an aspiring epidemiologist and public health analyst residing in Sydney, Australia. I am showcasing my career profile and my work with various analytical softwares, icluding R, SAS, SQL, Stata, and more.
 
 I use several NSW health proprietary software in my day to day role, such as Discern Analytics 2.0, FirstNet, and various Cerner Millennium products, such as Discern Explorer (Cerner equivalent to SQL).
 
 Career profile:\
 **Master of Public Health** with specialisation in Epidemiology and Biostatistics | 2026 QS Global ranked 19th university, 1st in Australia (UNSW)\
 **Emergency Data Manager** at the highest volume acute healthcare services unit in NSW’s largest paediatric specialty network (SCHN)\
-Multi-time author and acknowledgements in high impact medical journals\
+**Multi-time author** and acknowledgements in high impact medical journals\
   •	Yang, J., et al. (2020) IntechOpen\
   •	Hassan, N., et al. (2020) American Society of Hematology\
   •	Salik, B., et al. (2020) Cancer Cell\
