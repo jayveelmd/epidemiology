@@ -20,7 +20,10 @@ Bachelor of Medical Science with double major in Human Pathology & Anatomy, Dist
 Current professional development:\
 Statistical Analysis with R for Public Health Specialization | Imperial College London | _Complete_\
 SAS Programmer Professional Certificate | _In progress_ | Completed all modules aside from Preparing for SAS 9.4 certificate modules\
-SQL For Data Science | University of California, Davis | _Planned_\
+SQL For Data Science | University of California, Davis | _In Progress_\
+Applied Data Science with R Specialization | IBM | _Planned_\
+Power BI Data Analyst Associate | Microsoft | _Planned_\
 Observational Health Data Sciences and Informatics: Observational Medical Outcomes Partnership Common Data Model (OHDSI OMOP CDM v6)  | European Health Data & Evidence Network Academy | _Planned_\
+IBM Data Analytics with Excel and R Professional Certificate | IBM | _Planned_\
 DP-605 Prepare and visualise data with PowerBI & PL-300 Design and Manage Analytics solutions using PowerBI | _Planned_
 
